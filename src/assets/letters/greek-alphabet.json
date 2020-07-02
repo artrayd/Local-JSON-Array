@@ -1,0 +1,121 @@
+{
+  "sites": [
+    {
+      "name": "Alpha",
+      "alt": "Greek Alpha Letter",
+      "path": "assets/letters/lett-alpha.svg"
+    },
+    {
+      "name": "Beta",
+      "alt": "Greek Gamma Letter",
+      "path": "assets/letters/lett-beta.svg"
+    },
+
+    {
+      "name": "Delta",
+      "alt": "Greek Delta Letter",
+      "path": "assets/letters/lett-delta.svg"
+    },
+
+    {
+      "name": "Epsilon",
+      "alt": "Greek Epsilon Letter",
+      "path": "assets/letters/lett-epsilon.svg"
+    },
+
+    {
+      "name": "Zeta",
+      "alt": "Greek Zeta Letter",
+      "path": "assets/letters/lett-zeta.svg"
+    },
+
+    {
+      "name": "Eta",
+      "alt": "Greek Eta Letter",
+      "path": "assets/letters/lett-eta.svg"
+    },
+
+    {
+      "name": "Theta",
+      "alt": "Greek Theta Letter",
+      "path": "assets/letters/lett-theta.svg"
+    },
+
+    {
+      "name": "Iota",
+      "alt": "Greek Iota Letter",
+      "path": "assets/letters/lett-iota.svg"
+    },
+
+    {
+      "name": "Kappa",
+      "alt": "Greek Kappa Letter",
+      "path": "assets/letters/lett-kappa.svg"
+    },
+    {
+      "name": "Lambda",
+      "alt": "Greek Lambda Letter",
+      "path": "assets/letters/lett-lambda.svg"
+    },
+
+    {
+      "name": "Mu",
+      "alt": "Greek Mu Letter",
+      "path": "assets/letters/lett-mu.svg"
+    },
+
+    {
+      "name": "Xi",
+      "alt": "Greek Xi Letter",
+      "path": "assets/letters/lett-xi.svg"
+    },
+
+    {
+      "name": "Omicron",
+      "alt": "Greek Omicron Letter",
+      "path": "assets/letters/lett-omicron.svg"
+    },
+
+    {
+      "name": "Pi",
+      "alt": "Greek Pi Letter",
+      "path": "assets/letters/lett-pi.svg"
+    },
+
+    {
+      "name": "Rho",
+      "alt": "Greek Rho Letter",
+      "path": "assets/letters/lett-rho.svg"
+    },
+
+    {
+      "name": "Sigma",
+      "alt": "Greek Sigma Letter",
+      "path": "assets/letters/lett-sigma.svg"
+    },
+
+    {
+      "name": "Tau",
+      "alt": "Greek Tau Letter",
+      "path": "assets/letters/lett-tau.svg"
+    },
+
+    {
+      "name": "Tau",
+      "alt": "Greek Chi Letter",
+      "path": "assets/letters/lett-chi.svg"
+    },
+
+    {
+      "name": "Psi",
+      "alt": "Greek Psi Letter",
+      "path": "assets/letters/lett-psi.svg"
+    },
+
+    {
+      "name": "Omega",
+      "alt": "Greek Omega Letter",
+      "path": "assets/letters/lett-omega.svg"
+    }
+  ]
+}
