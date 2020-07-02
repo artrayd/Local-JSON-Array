@@ -1,5 +1,5 @@
 {
-  "sites": [
+  "letters": [
     {
       "name": "Alpha",
       "alt": "Greek Alpha Letter",
@@ -101,7 +101,7 @@
     },
 
     {
-      "name": "Tau",
+      "name": "Chi",
       "alt": "Greek Chi Letter",
       "path": "assets/letters/lett-chi.svg"
     },
