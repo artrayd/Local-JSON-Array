@@ -1,4 +1,5 @@
-# items-array
+# Items array from local json data
+This repository is made for the tutorial artice published on medium.com.
 
 ## Project setup
 ```
