@@ -1,4 +1,4 @@
-# items-array
+# Example how to import array from a local JSON file
 
 ## Project setup
 

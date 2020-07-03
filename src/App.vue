@@ -5,9 +5,12 @@
     <section class="title">
       <h1>This array was imported from the local JSON file.</h1>
       <p>
-        This is an example of an exercise for VueJs learning purpose.
+        This is an example of an exercise for VueJs learning purpose.<br />
         <a href="#">Read VueJS Tutorial</a>
-        Download this project from the
+      </p>
+
+      <p>
+        Download this project from the<br />
         <a href="https://github.com/artrayd/items-array-from-local-json"
           >GitHub repository</a
         >
