@@ -1,4 +1,4 @@
-# Items array from local json data
+# Example how to import array from a local JSON file
 This repository is made for the tutorial artice published on medium.com.
 
 ## Project setup
