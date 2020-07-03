@@ -3,9 +3,9 @@
     <Alphabet class="center" />
 
     <section class="title">
-      <h1>This array was imported from the local JSON file.</h1>
+      <h1>This array was imported from the local JSON file</h1>
       <p>
-        This is an example of an exercise for VueJs learning purpose.<br />
+        This is an example of an exercise for VueJs learning purpose<br />
         <a href="#">Read VueJS Tutorial</a>
       </p>
 
