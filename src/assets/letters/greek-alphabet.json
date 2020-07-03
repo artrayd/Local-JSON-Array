@@ -7,6 +7,12 @@
     },
     {
       "name": "Beta",
+      "alt": "Greek Beta Letter",
+      "path": "assets/letters/lett-beta.svg"
+    },
+
+    {
+      "name": "Gamma",
       "alt": "Greek Gamma Letter",
       "path": "assets/letters/lett-beta.svg"
     },
@@ -65,6 +71,12 @@
     },
 
     {
+      "name": "Nu",
+      "alt": "Greek Nu Letter",
+      "path": "assets/letters/lett-nu.svg"
+    },
+
+    {
       "name": "Xi",
       "alt": "Greek Xi Letter",
       "path": "assets/letters/lett-xi.svg"
@@ -98,6 +110,18 @@
       "name": "Tau",
       "alt": "Greek Tau Letter",
       "path": "assets/letters/lett-tau.svg"
+    },
+
+    {
+      "name": "Upsilon",
+      "alt": "Greek Upsilon Letter",
+      "path": "assets/letters/lett-upsilon.svg"
+    },
+
+    {
+      "name": "Phi",
+      "alt": "Greek Phi Letter",
+      "path": "assets/letters/lett-phi.svg"
     },
 
     {
