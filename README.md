@@ -1,5 +1,6 @@
-# Example how to import array from a local JSON file
+# Array from local JSON to VueJS
 
+Example how to import array from a local JSON file to VueJs data object.
 This repository is made for the tutorial artice published on medium.com.
 
 ## Project setup
