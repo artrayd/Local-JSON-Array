@@ -2,7 +2,7 @@
 ![Greek Alphabet](https://artrayd.com/vue-local-json-array/screen-rec-2.gif)
 
 Example how to import array from a local JSON file to VueJs data object.
-This repository is made for this [tutorial artice](https://medium.com/@dmitrymind/how-to-keep-array-data-inside-local-json-file-for-vue-app-46bb29d4ac53?sk=7223cf099b26ea87e4a7f18155552bb5)
+This repository is made for this [tutorial artice](https://medium.com/@dmitrymind/how-to-keep-array-data-inside-local-json-file-for-vue-app-46bb29d4ac53)
 
 ## Project setup
 
