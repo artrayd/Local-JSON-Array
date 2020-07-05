@@ -1,5 +1,5 @@
 # Greek Alphabet loaded from the local JSON File
-![Greek Alphabet](https://artrayd.com/vue-local-json-array/screen-rec-2.gif)
+![Greek Alphabet](https://artrayd.com/vue-local-json-array/screen-rec-2.gif?v=1)
 
 Example how to import array from a local JSON file to VueJs data object.
 This repository is made for this [tutorial artice](https://medium.com/@dmitrymind/how-to-keep-array-data-inside-local-json-file-for-vue-app-46bb29d4ac53)
