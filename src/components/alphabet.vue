@@ -4,7 +4,10 @@
     <span>{{ lettersAmount }} letters</span>
     <ul class="alphabet">
       <li v-for="letter in letters" :key="letter.name">
-        <img :src="letterIcon(letter.path)" alt="" />
+        <img
+          :src="letterIcon(letter.path)"
+          :alt="letter.name + ' greek letter'"
+        />
         <p>{{ letter.name }}</p>
         <div class="tooltip">{{ letter.alt }}</div>
       </li>
